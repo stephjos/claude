@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/28131559/README.md)
 # Pre-Engagement Intelligence System
 
-A personal Claude skill for marketing-communications-PR practitioners to prepare deeply and deliberately for first client meetings — before anyone is in the room.
+A personal Claude skill for marketing-communications-PR practitioners to prepare deeply and deliberately for first client meetings before anyone is in the room.
 
 ---
 
@@ -9,7 +9,7 @@ A personal Claude skill for marketing-communications-PR practitioners to prepare
 
 Most practitioners arrive at a first meeting having done surface research: a scan of the website, a look at social media, perhaps a read of recent press. That preparation produces competence. It rarely produces the moment where everyone in the room says *"we hadn't even considered that in that light before."*
 
-This skill is built for that second outcome. It is a structured thinking companion that walks a practitioner through five progressive layers of pre-engagement inquiry — from the world the company inhabits to the single question that reframes their situation for everyone in the room. It does not generate a report. It produces a prepared practitioner.
+This skill is built for that second outcome. It is a structured thinking companion that walks a practitioner through five progressive layers of pre-engagement inquiry from the world the company inhabits to the single question that reframes their situation for everyone in the room. It does not generate a report. It produces a prepared practitioner.
 
 ---
 
@@ -30,12 +30,12 @@ The system moves through five layers in sequence. Each layer builds on the one b
 Every output of every layer must pass three tests before proceeding.
 
 - **Lucid.** Can it be stated plainly, without jargon or hedging?
-- **Grounded.** Can it be supported by at least two concrete, observable data points — not hypothesis?
+- **Grounded.** Can it be supported by at least two concrete, observable data points not hypothesis?
 - **Oriented toward flourishing.** Does it serve the client's genuine good?
 
 ### The Guardianship Spine
 
-A vertical lens that travels through all five layers simultaneously. It is not a checklist. It is a posture — the practitioner's ongoing responsibility to the brand's integrity, its stakeholders, and its genuine good. At each layer it asks a specific question about what this brand is responsible for and whether the evidence suggests it is meeting that responsibility.
+A vertical lens that travels through all five layers simultaneously. It is not a checklist. It is a posture the practitioner's ongoing responsibility to the brand's integrity, its stakeholders, and its genuine good. At each layer it asks a specific question about what this brand is responsible for and whether the evidence suggests it is meeting that responsibility.
 
 ---
 
@@ -49,7 +49,7 @@ This skill was purpose-built through a structured design process. Several princi
 
 **Lucidly grounded optimism.** Every finding must be tied to concrete, observable evidence. And every finding must be oriented toward what becomes possible, not merely what is broken. This is the standard the system holds the practitioner to at every stage.
 
-**Digital footprints as cross-layer evidence.** The company's full digital presence — website, social media, review platforms, employee signals, search behaviour, earned media, archived content — is treated as evidence that feeds into multiple layers simultaneously, not as a separate audit track.
+**Digital footprints as cross-layer evidence.** The company's full digital presence: website, social media, review platforms, employee signals, search behaviour, earned media, archived content is treated as evidence that feeds into multiple layers simultaneously, not as a separate audit track.
 
 ---
 
@@ -105,7 +105,7 @@ Claude will ask for the company name if not already given, and any initial conte
 
 ## Intended use and ownership
 
-This skill was designed for a specific practitioner's context — a marketing-communications-PR consultant operating at the intersection of brand strategy, client advisory, and communications practice. It reflects a particular standard of preparation, a particular epistemological posture, and a particular understanding of what good practitioner work produces.
+This skill was designed for a specific practitioner's context: a marketing-communications-PR consultant operating at the intersection of brand strategy, client advisory, and communications practice. It reflects a particular standard of preparation, a particular epistemological posture, and a particular understanding of what good practitioner work produces.
 
 It may be adapted for other practitioners, but should be understood as a purpose-built system rather than a generic template. The methodology behind it is intentional at every level.
 
